@@ -24,7 +24,7 @@ The “Kinds of Payment Method” bar chart within the Amazon Prime dashboard di
 
 
 ## Active User Throughout
-![alt text](image-2.png)
+![alt text](<Screenshot 2025-04-09 201755.png>)
 
 The Amazon Prime dashboard uses an “Active Users” map chart to display worldwide user distribution. Microsoft Bing software depicts the world map using dark colors as base while showing user activity through light blue or white points on the chart. Diverse user population concentrations can be observed throughout regions because data points show different brightness levels and sizes. The map possesses rounded boundaries that contain interactive zoom capability. The concentration of luminescent dense points in the visualization indicates heavy user interaction which can correspond to bustling cities or active Prime user base areas. Through clear visual representation the system displays important market data and geographical user trends. The definition of “active user” remains ambiguous while the timeframe of the data needs clarification to verify its basis in real-time or aggregated statistics.
 
