@@ -30,6 +30,6 @@ The Amazon Prime dashboard uses an “Active Users” map chart to display world
 
 ## Total Users monthly and anually && Total User By gender
 
-![alt text](image-3.png)
+![alt text](<Screenshot 2025-04-09 201859.png>)
 
 The Amazon Prime dashboard contains two demographic displays in this section. The pie chart named “Total Monthly and Annual Users” depicts usage patterns as annual subscribers represent 50.84 percent and monthly subscribers comprise 49.16 percent of the total population. This produces an almost balanced split. The color scheme divided categories between light blue and dark blue segments. Users can examine gender-based user breakdowns through the right-side stacked bar chart named “Total User by Gender” which displays Romance, Horror and Comedy and Action genres. Dark blue bars at the bottom represent female users whereas light blue bars above them represent male users where all numbers indicate thousands (0.20K). The visual display reveals gender-specific choices which provide essential information to help businesses create tailored content and customized marketing strategies using customer activity data and subscription schemes.
